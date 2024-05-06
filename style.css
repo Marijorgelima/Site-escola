@@ -1,5 +1,5 @@
  
-* {
+ {
  margem : 0 ;
  preenchimento : 0 ;
  }
@@ -47,7 +47,14 @@
  alinhamento de texto : centro ;
  preenchimento : 24px 0 ;
  }
- .escola-conteudo {
+ .escola-c/onteudo {
+
+
+
+
+
+
+    
  largura : 35% ;
  }
  .seção {
@@ -84,6 +91,7 @@
  cor de fundo : preto ;
  alinhamento de texto : centro ;
  }
+ 
  .rodape-imagem {
  altura : 45px ;
  preenchimento : 12px 0 ;
